@@ -1,0 +1,15 @@
+ul li{
+    list-style-type: none;
+    display: inline;
+    
+}
+ul li a{
+    text-decoration: none;
+    /* margin-left: 160px; */
+    padding: 5px;
+    font-size: large;
+    color: white;
+}
+nav{
+    text-align: center;
+}
